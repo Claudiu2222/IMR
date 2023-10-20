@@ -8,10 +8,10 @@ Acest repository prezinta munca (a colaboratorilor) la seminarul de IMR.
 ## Roadmap
 
 - Week 1 ✅
-  Lab 1 demo link: https://clipchamp.com/watch/jGG85TKbEnh
+  <br>Lab 1 demo link: https://clipchamp.com/watch/jGG85TKbEnh
 - Week 2 ✅
-  Lab 2 demo link: https://clipchamp.com/watch/AdBfWsi8Z1f
-  Mingea de bascket a fost facuta de noi in Blender.
+  <br>Lab 2 demo link: https://clipchamp.com/watch/AdBfWsi8Z1f
+  <br>Mingea de bascket a fost facuta de noi in Blender.
 
 
 ## Authors
