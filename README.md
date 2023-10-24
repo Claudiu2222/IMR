@@ -11,7 +11,7 @@ Acest repository prezinta munca (a colaboratorilor) la seminarul de IMR.
   <br>Lab 1 demo link: https://clipchamp.com/watch/jGG85TKbEnh
 - Week 2 ✅
   <br>Lab 2 demo link: https://clipchamp.com/watch/AdBfWsi8Z1f
-  <br>Mingea de bascket a fost facuta de noi in Blender.
+  <br>Mingea de basket a fost facuta de noi in Blender.
 
 
 ## Authors
