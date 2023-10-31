@@ -14,6 +14,8 @@ Acest repository prezinta munca (a colaboratorilor) la seminarul de IMR.
   <br>Mingea de basket a fost facuta de noi in Blender.
 - Week 3 ✅
   <br>Lab 3 demo link: https://clipchamp.com/watch/C65jexauEvf
+- Week 4 ✅
+  <br>Lab 4 docs link: https://docs.google.com/document/d/10sXUO1zAXZDxt7NUForjJilfGB2fl6vS5D6Px0iHGjM/edit#heading=h.bcldxwdefncd
 
 
 ## Authors
