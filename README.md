@@ -16,6 +16,8 @@ Acest repository prezinta munca (a colaboratorilor) la seminarul de IMR.
   <br>Lab 3 demo link: https://clipchamp.com/watch/C65jexauEvf
 - Week 4 ✅
   <br>Lab 4 docs link: https://docs.google.com/document/d/10sXUO1zAXZDxt7NUForjJilfGB2fl6vS5D6Px0iHGjM/edit#heading=h.bcldxwdefncd
+- Week 5 ✅
+  <br>Lab 5 docs link: https://docs.google.com/document/d/1LRbQtnTg82UOtYZVSBfctvy_FoobTyexoSP-4W2Ql5M/edit#heading=h.bcldxwdefncd
 
 
 ## Authors
